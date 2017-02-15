@@ -1,0 +1,717 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: tribe-events/list/nav.php:20
+msgid "%s List Navigation"
+msgstr ""
+
+#. Text in function
+#: tribe-events/single-event.php:79
+msgid "%s Navigation"
+msgstr ""
+
+#. Text in function
+#: comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:115
+msgid "* Social Network account must be set from ThemeSLR - Theme Panel."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "404 Not Found"
+msgstr ""
+
+#. Text in echo
+#: 404.php:18
+msgid "404 Page not found"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Add comment"
+msgstr ""
+
+#. Text in function
+#: woocommerce/single-product/tabs/additional-information.php:1
+msgid "Additional Information"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: content-single.php:119
+msgid "Article by"
+msgstr ""
+
+#. Text in function
+#: content-single.php:55
+#: content-single-sermon.php:45
+msgid "By "
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.header.php:1
+msgid "Call Us: "
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Category: "
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:397
+msgid "Check what Social SHARE Buttons do you want to display"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: content-search.php:47
+msgid "Continue reading "
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:416
+msgid "Digg"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in function
+#: templates/template-header2.php:42
+msgid "Donate"
+msgstr ""
+
+#. Text in function
+#: inc/custom-comments.php:37
+#: content-page.php:20
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Enter search term..."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Events Calendar"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Events List"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Events by date"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:400
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: tribe-events/list/single-event.php:76
+msgid "Find out more"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Row 1 - Sidebar "
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Row 2 - Sidebar "
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Row 3 - Sidebar "
+msgstr ""
+
+#. Text in function
+#: templates/template-header1.php:63
+msgid "Give Donation"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:412
+msgid "Google Plus"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in echo
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Leave a reply to %s"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:408
+msgid "Linkedin"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Log out?"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Logged in as "
+msgstr ""
+
+#. Text in echo
+#: content-single-sermon.php:118
+msgid "More Sermons"
+msgstr ""
+
+#. Text in function
+#: comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: tribe-events/list/nav.php:34
+msgid "Next %s"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in echo
+#: 404.php:47
+#: 404.php:54
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: content-none.php:26
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:292
+msgid "Number of posts:"
+msgstr ""
+
+#. Text in function
+#: content-single-sermon.php:96
+msgid "Open Sermon Document"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.header.php:1
+msgid "Our Address: "
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: content-single.php:134
+#: content.php:94
+#: content-search.php:47
+#: content-page.php:12
+#: content-post.php:88
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Pin on Pinterest"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:420
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: woocommerce/single-product/product-image.php:26
+msgid "Placeholder"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in function
+#: content-single.php:86
+msgid "Post tags: "
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:430
+msgid "Post thumbnails slider"
+msgstr ""
+
+#. Text in function
+#: tribe-events/list/nav.php:26
+msgid "Previous %s"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Primary menu"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.header.php:1
+msgid "Primary navigation menu is missing. Add one from \"Appearance\" -> \"Menus\""
+msgstr ""
+
+#. Text in function
+#: woocommerce/single-product/tabs/description.php:1
+msgid "Product Description"
+msgstr ""
+
+#. Text in function
+#: content.php:94
+msgid "READ MORE"
+msgstr ""
+
+#. Text in function
+#: woocommerce/single-product/review-rating.php:28
+msgid "Rated %d out of 5"
+msgstr ""
+
+#. Text in function
+#: content-post.php:88
+msgid "Read More <i class=\"fa fa-long-arrow-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#. Text in function
+#: content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:430
+msgid "Recent posts"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:424
+msgid "Reddit"
+msgstr ""
+
+#. Text in echo
+#: content-single.php:177
+msgid "Related Posts"
+msgstr ""
+
+#. Text in echo
+#: woocommerce/single-product/related.php:51
+msgid "Related Products"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in function
+#: woocommerce/single-product/sale-flash.php:28
+msgid "Sale!"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Search Results for: "
+msgstr ""
+
+#. Text in echo
+#: woocommerce/product-searchform.php:27
+#: searchform.php:11
+#: searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#. Text in function
+#: content-single-sermon.php:61
+msgid "Sermon Media"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Share on Facebook"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Share on G+"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Share on LinkedIn"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Share on Reddit"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Share on Tumblr"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Shop"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:107
+msgid "Show contact informations box"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:111
+msgid "Show social icons"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar "
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar 1"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:430
+msgid "Social icons"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in echo
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#. Text in function
+#: inc/post-love.php:1
+msgid "Sorry, there was a problem processing your request."
+msgstr ""
+
+#. Text in echo
+#: 404.php:48
+#: 404.php:55
+msgid "Sorry, this page does not exist"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:428
+msgid "Stumbleupon"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Tag Archives: "
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in echo
+#: 404.php:49
+#: 404.php:56
+msgid "The link you clicked might be corrupted, or the page may have been removed."
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:1
+msgid "ThemeSLR - Contact + Social links"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:1
+msgid "ThemeSLR - Contact information + Social icons"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:430
+msgid "ThemeSLR - Post thumbnails slider"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:430
+msgid "ThemeSLR - Recent Posts with thumbnails"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/widgets.php:430
+msgid "ThemeSLR - Social Share Icons"
+msgstr ""
+
+#. Text in function
+#: tribe-events/widgets/list-widget.php:73
+msgid "There are no upcoming %s at this time."
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in echo
+#: content-none.php:27
+msgid "Try to search for posts via the form above"
+msgstr ""
+
+#. Text in echo
+#: content-none.php:21
+msgid "Try to search using another term via the form above"
+msgstr ""
+
+#. Text in function
+#: inc/custom-functions.php:1
+msgid "Tweet on Twitter"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:404
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: inc/tgm/class-tgm-plugin-activation.php:1
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: tribe-events/widgets/list-widget.php:67
+msgid "View All %s"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/widgets.php:394
+#: inc/widgets/widgets.php:288
+msgid "Widget Title:"
+msgstr ""
+
+#. Text in function
+#: inc/post-love.php:1
+msgid "You have already loved this item."
+msgstr ""
+
+#. Text in echo
+#: woocommerce/single-product/up-sells.php:48
+msgid "You may also like:"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "You must be "
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Your comment"
+msgstr ""
+
+#. Text in echo
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#. Text in echo
+#: inc/custom-comments.php:25
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Your email"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Your name"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "Your website"
+msgstr ""
+
+#. Text in function
+#: content-post.php:75
+msgid "by"
+msgstr ""
+
+#. Text in function
+#: content-search.php:35
+msgid "by "
+msgstr ""
+
+#. Text in function
+#: inc/post-love.php:1
+msgid "failed"
+msgstr ""
+
+#. Text in function
+#: content-post.php:77
+msgid "in"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "logged in"
+msgstr ""
+
+#. Text in function
+#: inc/post-love.php:1
+msgid "loved"
+msgstr ""
+
+#. Text in echo
+#: woocommerce/single-product/review-rating.php:29
+msgid "out of 5"
+msgstr ""
+
+#. Text in function
+#: comments.php:68
+msgid "to post a comment."
+msgstr ""
+
+#. Text in function
+#: woocommerce/single-product/review-meta.php:33
+msgid "verified owner"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:15
+msgid ""
+msgstr ""

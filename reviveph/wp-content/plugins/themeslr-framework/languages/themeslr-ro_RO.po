@@ -1,0 +1,1622 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+#: inc/metaboxes/metaboxes.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "(mp4, m4v, webm, ogv, wmv, flv) - Type full path of a local video file(Import video file in Media, then copy/paste url here)"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.1"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.2"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.3"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.4"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.5"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.6"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.7"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.8"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "0.9"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add Client"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add Gallery Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add Member"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Client"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Gallery Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Member"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Portfolio"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Quote"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Sermon Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add New Testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add Portfolio"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add Quote"
+msgstr ""
+
+#. Text in echo
+#: helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add Sermon Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add Testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Add or remove items"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+msgid "All Events Page Url"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "All Items"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "All done."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-sermons/tslr-sermons.php:1
+#: inc/shortcodes/tslr-service_activity/tslr-service_activity.php:1
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+#: inc/shortcodes/tslr-members/tslr-members-slider.php:1
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+#: inc/shortcodes/tslr-contact/tslr-contact01.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "Animation"
+msgstr ""
+
+#. Text in echo
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:273
+msgid "Assign Authors"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Audio mp3 file - Label"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Audio mp3 file - URL"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+msgid "Check Upcoming Events"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose background"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+msgid "Choose blog post day color"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose button color for this service"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-contact/tslr-contact01.php:1
+msgid "Choose contact button color"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose custom service description"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose custom service second title (Heading)"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose description color for this service"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Choose from the most used"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose image"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose image for custom service"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "Choose testimonial color"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Choose title color for this service"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Client"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+msgid "Client Logo Background Overlay"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Client Name"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Clients"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+msgid "Clients Per Row"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-instagram-feed/tslr-instagram-feed.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Comments Status"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Company"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-contact/tslr-contact01.php:1
+msgid "Contact button color"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Custom service background"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Custom service button color"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Custom service description color"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Custom service title color"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Deviantart URL"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Digg URL"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Disabled"
+msgstr ""
+
+#. Text in echo
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:289
+msgid "Download and import file attachments"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Dribbble URL"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Client"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Gallery Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Member"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Portfolio"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Quote"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Sermon Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Edit Testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Enabled"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-sermons/tslr-sermons.php:1
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+#: inc/shortcodes/tslr-fancy-gallery/tslr-fancy-gallery.php:51
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+msgid "Enter number of blog post to show."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+msgid "Enter number of clients to show."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-members/tslr-members-slider.php:1
+msgid "Enter number of members to show."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "Enter number of testimonials to show."
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Enter testimonial author company name"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Enter testimonial author job position"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Enter the button link"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "Enter the button text"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your Google+ link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your Skype Username."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your YouTube link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your deviantart link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your digg link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your dribbble link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your facebook link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your flickr link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your instagram link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your linkedin link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your pinterest link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your stumbleupon link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your tumblr link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your twitter link."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Enter your vimeo link."
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Event date"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Facebook URL"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Flickr URL"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Footer Custom background color"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Galleries"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Gallery Categories"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Gallery Item"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Google Plus URL"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Have fun!"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Header Custom background color"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "High Padding"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Alignment:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Background - Hover:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Background:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Border - Hover:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Border:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Color - Hover:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Color:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Margin:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Icons Padding:"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-service_activity/tslr-service_activity.php:1
+msgid "Icons hover color"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "If \"Yes\" - Page Options will rewrite Theme Options"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:276
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#. Text in echo
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Import Attachments"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Imported"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Imported to Inactive"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Instagram URL"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-instagram-feed/tslr-instagram-feed.php:1
+msgid "Instagram tagname"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Job Position"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+msgid "Join Free"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "LinkedIn URL"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Local video file - Label"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Local video file - URL"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+msgid "Logo Background Overlay"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "MT Custom Options"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "MT Events Custom Options"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "MT Members Custom Options"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "MT Portfolios Custom Options"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "MT Testimonials Custom Options"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Member"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Member Positions"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Member email"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Member phone"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Member position"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Members"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Client"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Gallery Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Item Name"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Member"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Portfolio"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Quote"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Sermon Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "New Testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Clients Found"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Clients Found in Trash"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Gallery Item Found"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Gallery Item Found in Trash"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Members Found"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Members Found in Trash"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "No Padding"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "No Padding bottom"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "No Padding top"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Portfolios Found"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Portfolios Found in Trash"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Quotes Found"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Quotes Found in Trash"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Sermon Item Found"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Sermon Item Found in Trash"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Testimonials Found"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "No Title"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-instagram-feed/tslr-instagram-feed.php:1
+msgid "Number of Instagram Pictures to show"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+msgid "Number of clients"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-members/tslr-members-slider.php:1
+msgid "Number of members"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+#: inc/shortcodes/tslr-fancy-gallery/tslr-fancy-gallery.php:51
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+msgid "Number of posts"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-service_activity/tslr-service_activity.php:1
+msgid "Number of posts to show"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-sermons/tslr-sermons.php:1
+msgid "Number of sermons"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_services_slider.php:1
+msgid "Number of services to show"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "Number of testimonials"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Off - Hide comments"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Off - Hide title-breadcrumbs area"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "On - Show comments"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "On - Show title-breadcrumbs area"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "PDF sermon - Label"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "PDF sermon - URL"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Page Preloader Background Color"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Page Preloader Status"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Page title-breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Page top/bottom spacing"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Client"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Gallery Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Item:"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Member"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Portfolio"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Quote"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Sermon Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Parent Testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Pinterest URL"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Popular Items"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Portfolio Categories"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Portfolio Skills"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Portfolio icon"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Portfolios"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Project Live Url"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Quotes"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#. Text in echo
+#: helpers/cmb_Meta_Box_types.php:306
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Rewrite Theme Options?"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Clients"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Gallery Items"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Items"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Members"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Portfolios"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Quotes"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Sermon Items"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Search Testimonials"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Select Revolution Slider"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Select Sidebar"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Separate items with commas"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Sermon Categories"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Sermon Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Sermons"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Sermons Custom Options"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-sermons/tslr-sermons.php:1
+msgid "Sermons per row"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the Page Preloader(Default: #656984)"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the footer(Default: #656984)"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the header(Default: #ffffff)"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the border color of the testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the date of this event"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the member email"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the member phone"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Set the member position"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Site does not support widget"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Skype Username"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Stumbleupon URL"
+msgstr ""
+
+#. Text in echo
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:293
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Clients"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Galleries"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Galley"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Members"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Portfolios"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Quotes"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Sermons"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "TSLR Testimonials"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "Testimonial Content - Background Color"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "Testimonial Content - Text Color"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Testimonial background"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Testimonial border color"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Testimonials"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-contact/tslr-contact01.php:1
+msgid "Thank you! We\\'ll get back to you as soon as possible."
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-sermons/tslr-sermons.php:1
+#: inc/shortcodes/tslr-service_activity/tslr-service_activity.php:1
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+#: inc/shortcodes/tslr-members/tslr-members-slider.php:1
+#: inc/shortcodes/tslr-services/tslr_services_slider.php:1
+#: inc/shortcodes/tslr-fancy-gallery/tslr-fancy-gallery.php:51
+#: inc/shortcodes/tslr-instagram-feed/tslr-instagram-feed.php:1
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+#: inc/shortcodes/tslr-contact/tslr-contact01.php:1
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "ThemeSLR"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+msgid "ThemeSLR - Blog Posts"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients-no-slider.php:1
+msgid "ThemeSLR - Clients (No Slider)"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+msgid "ThemeSLR - Clients (Slider)"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-contact/tslr-contact01.php:1
+msgid "ThemeSLR - Contact"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_custom_service.php:1
+msgid "ThemeSLR - Custom Service"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-events-calendar-shortcode/tslr-events-calendar-shortcode.php:1
+msgid "ThemeSLR - Events Calendar (Upcoming Events)"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-fancy-gallery/tslr-fancy-gallery.php:51
+msgid "ThemeSLR - Fancy Gallery"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-instagram-feed/tslr-instagram-feed.php:1
+msgid "ThemeSLR - Instagram Feed"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-members/tslr-members-slider.php:1
+msgid "ThemeSLR - Members Slider"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-sermons/tslr-sermons.php:1
+msgid "ThemeSLR - Sermons"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-service_activity/tslr-service_activity.php:1
+msgid "ThemeSLR - Services Features"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-services/tslr_services_slider.php:1
+msgid "ThemeSLR - Services Slider"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "ThemeSLR - Social Icons"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "ThemeSLR - Testimonials Slider"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "This will be shown as a text title above the video"
+msgstr ""
+
+#. Text in echo
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:274
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Tumblr URL"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Twitter URL"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Type YouTube/Vimeo Url"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Type full path of an PDF file(Import PDF file in Media, then copy/paste url here)"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Type full path of an mp3 file(Import audio file in Media, then copy/paste url here)"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "Update Item"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-contact/tslr-contact01.php:1
+msgid "Version type"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Client"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Gallery Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Member"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Portfolio"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Quote"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Sermon Item"
+msgstr ""
+
+#. Text in function
+#: inc/post-types/post-types.php:1
+msgid "View Testimonial"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "Vimeo URL"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-clients/tslr-clients.php:1
+msgid "Visible Clients per slide"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-testimonials/tslr-testimonials01.php:1
+msgid "Visible Testimonials per slide"
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#. Text in function
+#: inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Widget already exists"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-social-icons/tslr-social-icons.php:1
+msgid "YouTube URL"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "YouTube/Vimeo - Label"
+msgstr ""
+
+#. Text in function
+#: inc/metaboxes/metaboxes.php:1
+msgid "YouTube/Vimeo - URL"
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+msgid "by "
+msgstr ""
+
+#. Text in function
+#: inc/shortcodes/tslr-blog-posts/tslr-blogpost01.php:1
+msgid "in "
+msgstr ""
